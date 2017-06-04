@@ -1,0 +1,15 @@
+*{padding-bottom:0px;margin:0px;}
+.input{float:right;text-align:right;}
+.logo{width:1000px;margin:0px auto;text-align:left;}
+.sou{float:right;}
+.menu{width:100%;height:40px;background:#666;}
+.menu ul{width:1000px;margin:0px auto;}
+.menu ul li{float:left;width:100px;line-height:40px;list-style-type:none;}
+.meeu a{font-size:16px;color:#fff;}
+.banner{width:auto;height:auto;text-align:center;}
+.main{width:1000px;margin:auto;}
+.m_left{width:598px;height:398px;float:right;border:1px solid #ccc;margin:auto;}
+.m_right{width:398px;height:398px;float:left;border:1px solid #ccc;margin:auto;}
+.list{width:1000px;margin:0px auto;}
+.list_img{width:230px;height:410px;float:left;margin:10px 10px 100px;}
+.footer{height:80px;background:#666;color:#aaa;text-align:center;clear:both;padding-top:25px;}
